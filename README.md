@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+## Goals of this project:
+1.	For author is to summarize his experience:
+a.	Angular project structure
+b.	Angular framework and best practices
+c.	Git
+d.	CD/CI
+e.	Docker
+f.	Unit tests
+g.	Integration tests
+h.	Redux/NgRx (https://ngrx.io/)
+i.	RxJS (https://rxjs-dev.firebaseapp.com)
+j.	Angular material
+k.	
+2.	For community
+a.	Provide a new extensible component to examine user based on provided test for him
